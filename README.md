@@ -1,0 +1,1 @@
+Selenium+numpy实现登录验证滑块的获取与匹配，action_chains完成滑动
